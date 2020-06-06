@@ -1,0 +1,66 @@
+.navbar{
+    background-color: chocolate !important;
+    
+}
+.nav-link,.navbar-brand{
+    font-weight: bold !important;
+}
+.logo{
+    height: 50px;
+}
+.d-block{
+    height: 600px;
+}
+h5{
+    font-style: italic;
+    padding-top: 20px;
+    height: 70px;
+    background-color: white;
+    box-shadow: 2px 4px 5px grey;
+    text-align: center;
+}
+iframe{
+   
+    min-width: 600px;
+    max-width: 1600px;
+    height: 450px;
+    background-color: white;
+    box-shadow: 2px 4px 5px grey;
+}
+.contact{
+    margin-top: 50px;
+}
+
+.card-img-top{
+    height: 300px;
+    
+}
+
+.card{
+    width: 280px !important;
+    background-color: white;
+    box-shadow: 2px 4px 5px grey;
+}
+.card-body{
+    text-align: center;
+}
+
+.text{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+}
+
+.home{
+    font-style: italic;
+}
+
+footer{
+  background-color: whitesmoke;
+  
+    font-weight: bold;
+   
+}
+.footer{
+    margin-left: 15px;
+}
